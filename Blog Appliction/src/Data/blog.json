@@ -1,0 +1,203 @@
+{
+  "blog": [
+    {
+      "title": "Kolkata",
+      "author": {
+        "name": "Mrs.Vaishnavi Bender ",
+        "designation": "Travel Blogger",
+        "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGLJAGrRIm2NCX-bJscceZqHtijxEdLFk7Hw&s"
+      },
+      "article": [
+        {
+          "sub-title": "Food of Kolkata",
+          "paragraph": [
+            "Kolkata, often referred to as the 'Cultural Capital of India,' is also a paradise for food lovers. The city's cuisine is a delightful blend of traditional Bengali flavors and colonial influences. Some must-try dishes include Rasgulla, Mishti Doi, Kathi Rolls, and Macher Jhol. Shorshe Ilish, cooked in mustard gravy, is a local delicacy. Street food lovers must try Puchka (Pani Puri). Bengali cuisine also features vegetarian delights like Shukto. The diverse food culture makes Kolkata a must-visit for food lovers."
+          ]
+        },
+        {
+          "sub-title": "Cultural Heritage",
+          "paragraph": [
+            "Kolkata has a rich cultural legacy influenced by literature, art, and music. It was the epicenter of the Indian Renaissance. Durga Puja is the most celebrated festival, transforming the city into a spectacle of lights and cultural performances. Colonial-era landmarks like Victoria Memorial and Howrah Bridge highlight the city's history, while Rabindra Sadan and Nandan promote Bengali literature and theatre."
+          ]
+        },
+        {
+          "sub-title": "Sightseeing",
+          "paragraph": [
+            "Kolkata is home to iconic landmarks such as Victoria Memorial and Howrah Bridge. Dakshineswar Kali Temple, Park Street, Science City, and College Street are must-visit places. Tram rides through old city lanes add to Kolkata's nostalgic charm.",
+            "Kolkata is home to iconic landmarks such as Victoria Memorial and Howrah Bridge. Dakshineswar Kali Temple, Park Street, Science City, and College Street are must-visit places. Tram rides through old city lanes add to Kolkata's nostalgic charm."
+          ]
+        }
+      ],
+      "image": "https://i.pinimg.com/736x/89/b2/82/89b282641894d3a91a5942a51113760a.jpg"
+    },
+    {
+      "title": "Delhi",
+      "author": {
+        "name": "Mr. Aniket Chavan",
+        "designation": "Travel Blogger",
+        "profile": "https://i.pinimg.com/736x/a8/03/5b/a8035b90e891d44c60f0b279c99d2bef.jpg"
+
+      },
+      "article": [
+        {
+          "sub-title": "Food of Delhi",
+          "paragraph": [
+            "Delhi is a food lover's paradise, offering a mix of Mughlai, Punjabi, and street food delights. Famous dishes include Butter Chicken, Chole Bhature, Parathas, and Golgappas. Karim's restaurant is renowned for its rich Mughlai cuisine. The city's food scene blends tradition and innovation, with modern cafés in Connaught Place and Hauz Khas.",
+            "Delhi is a food lover's paradise, offering a mix of Mughlai, Punjabi, and street food delights. Famous dishes include Butter Chicken, Chole Bhature, Parathas, and Golgappas. Karim's restaurant is renowned for its rich Mughlai cuisine. The city's food scene blends tradition and innovation, with modern cafés in Connaught Place and Hauz Khas."
+          ]
+        },
+        {
+          "sub-title": "Cultural Heritage",
+          "paragraph": [
+            "Delhi has a rich historical and cultural heritage, influenced by Mughal and British architecture. The Red Fort, Qutub Minar, and India Gate are iconic landmarks showcasing the city's grandeur. Dilli Haat offers handicrafts and cuisines from different Indian states, making it a cultural hotspot.",
+            "Delhi has a rich historical and cultural heritage, influenced by Mughal and British architecture. The Red Fort, Qutub Minar, and India Gate are iconic landmarks showcasing the city's grandeur. Dilli Haat offers handicrafts and cuisines from different Indian states, making it a cultural hotspot.",
+            "Delhi has a rich historical and cultural heritage, influenced by Mughal and British architecture. The Red Fort, Qutub Minar, and India Gate are iconic landmarks showcasing the city's grandeur. Dilli Haat offers handicrafts and cuisines from different Indian states, making it a cultural hotspot."
+          ]
+        },
+        {
+          "sub-title": "Sightseeing",
+          "paragraph": [
+            "Tourists can explore attractions like Akshardham Temple, Lotus Temple, and Connaught Place. Bustling markets like Sarojini Nagar and Dilli Haat offer shopping and street food delights. Nature lovers can visit Lodhi Garden and Garden of Five Senses.",
+            "Tourists can explore attractions like Akshardham Temple, Lotus Temple, and Connaught Place. Bustling markets like Sarojini Nagar and Dilli Haat offer shopping and street food delights. Nature lovers can visit Lodhi Garden and Garden of Five Senses."
+          ]
+        }
+      ],
+      "image": "https://i.pinimg.com/736x/c2/b9/41/c2b941697c9882bc51117565218ec1ff.jpg"
+    },
+    {
+      "title": "Jaipur",
+      "author": {
+        "name": "Mr.Vicky Bender",
+        "designation": "Travel Blogger"
+      },
+      "article": [
+        {
+          "sub-title": "Food of Jaipur",
+          "paragraph": [
+            "Jaipur, the Pink City, offers a royal culinary experience with its traditional Rajasthani cuisine. Must-try dishes include Dal Baati Churma, Laal Maas, Ghewar, and Pyaaz Kachori. Johri Bazaar and Chokhi Dhani provide an authentic taste of Rajasthani food.",
+            "Jaipur, the Pink City, offers a royal culinary experience with its traditional Rajasthani cuisine. Must-try dishes include Dal Baati Churma, Laal Maas, Ghewar, and Pyaaz Kachori. Johri Bazaar and Chokhi Dhani provide an authentic taste of Rajasthani food.",
+            "Jaipur, the Pink City, offers a royal culinary experience with its traditional Rajasthani cuisine. Must-try dishes include Dal Baati Churma, Laal Maas, Ghewar, and Pyaaz Kachori. Johri Bazaar and Chokhi Dhani provide an authentic taste of Rajasthani food.",
+            "Jaipur, the Pink City, offers a royal culinary experience with its traditional Rajasthani cuisine. Must-try dishes include Dal Baati Churma, Laal Maas, Ghewar, and Pyaaz Kachori. Johri Bazaar and Chokhi Dhani provide an authentic taste of Rajasthani food."
+          ]
+        },
+        {
+          "sub-title": "Cultural Heritage",
+          "paragraph": [
+            "Jaipur's rich history is evident in its forts, palaces, and traditions. Amber Fort, Hawa Mahal, and City Palace are iconic landmarks. Festivals like Teej and Gangaur showcase the city's cultural vibrancy.",
+            "Jaipur's rich history is evident in its forts, palaces, and traditions. Amber Fort, Hawa Mahal, and City Palace are iconic landmarks. Festivals like Teej and Gangaur showcase the city's cultural vibrancy."
+          ]
+        },
+        {
+          "sub-title": "Sightseeing",
+          "paragraph": [
+            "Must-visit attractions include Jantar Mantar, Nahargarh Fort, and Albert Hall Museum. The city's bazaars offer traditional handicrafts, jewelry, and textiles. A camel ride in the desert provides a unique experience.",
+            "Must-visit attractions include Jantar Mantar, Nahargarh Fort, and Albert Hall Museum. The city's bazaars offer traditional handicrafts, jewelry, and textiles. A camel ride in the desert provides a unique experience.",
+            "Must-visit attractions include Jantar Mantar, Nahargarh Fort, and Albert Hall Museum. The city's bazaars offer traditional handicrafts, jewelry, and textiles. A camel ride in the desert provides a unique experience."
+          ]
+        }
+      ],
+      "image": "https://i.pinimg.com/736x/01/1f/ca/011fca2ceb40f122f65152b51bfca062.jpg"
+    },
+    {
+      "title": "Chennai",
+      "author": {
+        "name": "Mrs.Vaibhavi Bender",
+        "designation": "Travel Blogger",
+        "profile":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB1Bir7GPwM8iqqlxj4CjeTRY0-lg7IaGB3w&s"
+      },
+      "article": [
+        {
+          "sub-title": "Food of Chennai",
+          "paragraph": [
+            "Chennai, the capital of Tamil Nadu, is renowned for its South Indian cuisine. Signature dishes include Dosa, Idli, Sambar, and the flavorful Chettinad chicken. The city's street food, such as Sundal and Murukku, offers a delightful experience. Traditional eateries like Saravana Bhavan and Murugan Idli Shop are popular among locals and tourists alike.",
+            "Chennai, the capital of Tamil Nadu, is renowned for its South Indian cuisine. Signature dishes include Dosa, Idli, Sambar, and the flavorful Chettinad chicken. The city's street food, such as Sundal and Murukku, offers a delightful experience. Traditional eateries like Saravana Bhavan and Murugan Idli Shop are popular among locals and tourists alike.",
+            "Chennai, the capital of Tamil Nadu, is renowned for its South Indian cuisine. Signature dishes include Dosa, Idli, Sambar, and the flavorful Chettinad chicken. The city's street food, such as Sundal and Murukku, offers a delightful experience. Traditional eateries like Saravana Bhavan and Murugan Idli Shop are popular among locals and tourists alike."
+          ]
+        },
+        {
+          "sub-title": "Cultural Heritage",
+          "paragraph": [
+            "Chennai boasts a rich cultural heritage, deeply rooted in classical music and dance. The annual Chennai Music Season attracts artists and enthusiasts worldwide. Landmarks like the Kapaleeshwarar Temple and San Thome Basilica reflect the city's historical significance. The Marina Beach, one of the longest urban beaches globally, is a testament to Chennai's coastal charm."
+          ]
+        },
+        {
+          "sub-title": "Sightseeing",
+          "paragraph": [
+            "Chennai offers a variety of sightseeing options, including the Marina Beach, one of the longest beaches in the world. Landmarks such as the Kapaleeshwarar Temple, San Thome Basilica, and the Government Museum are must-visit places. The city's vibrant markets and colonial-era architecture make it a blend of old and new.",
+            "Chennai offers a variety of sightseeing options, including the Marina Beach, one of the longest beaches in the world. Landmarks such as the Kapaleeshwarar Temple, San Thome Basilica, and the Government Museum are must-visit places. The city's vibrant markets and colonial-era architecture make it a blend of old and new."
+          ]
+        }
+      ],
+      "image": "https://i.pinimg.com/736x/9b/e8/63/9be863661038fa9339010ece794fc0aa.jpg"
+    },
+    {
+      "title": "Hyderabad",
+      "author": {
+        "name": "Mrs.Priyanka Jagdale",
+        "designation": "Travel Blogger",
+        "profile":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDT9oqJg549wnHt7OeMtmaQkvgGYUrzJ7ZmA&s"
+      },
+      "article": [
+        {
+          "sub-title": "Food of Hyderabad",
+          "paragraph": [
+            "Hyderabad is famed for its rich and flavorful cuisine, with the Hyderabadi Biryani being the star dish. Other culinary delights include Haleem, Mirchi Bajji, and the sweet treat Qubani ka Meetha. The city's street food, especially at the historic Charminar area, offers a blend of Mughlai and local flavors.",
+            "Hyderabad is famed for its rich and flavorful cuisine, with the Hyderabadi Biryani being the star dish. Other culinary delights include Haleem, Mirchi Bajji, and the sweet treat Qubani ka Meetha. The city's street food, especially at the historic Charminar area, offers a blend of Mughlai and local flavors."
+          ]
+        },
+        {
+          "sub-title": "Cultural Heritage",
+          "paragraph": [
+            "Hyderabad's cultural heritage is a blend of Mughal and Deccan influences. The city is home to historic sites like the Charminar, Golconda Fort, and the Chowmohalla Palace. The annual Bonalu festival showcases the city's traditions, while the Ramoji Film City attracts visitors with its cinematic attractions.",
+            "Hyderabad's cultural heritage is a blend of Mughal and Deccan influences. The city is home to historic sites like the Charminar, Golconda Fort, and the Chowmohalla Palace. The annual Bonalu festival showcases the city's traditions, while the Ramoji Film City attracts visitors with its cinematic attractions.",
+            "Hyderabad's cultural heritage is a blend of Mughal and Deccan influences. The city is home to historic sites like the Charminar, Golconda Fort, and the Chowmohalla Palace. The annual Bonalu festival showcases the city's traditions, while the Ramoji Film City attracts visitors with its cinematic attractions.",
+            "Hyderabad's cultural heritage is a blend of Mughal and Deccan influences. The city is home to historic sites like the Charminar, Golconda Fort, and the Chowmohalla Palace. The annual Bonalu festival showcases the city's traditions, while the Ramoji Film City attracts visitors with its cinematic attractions."
+          ]
+        },
+        {
+          "sub-title": "Sightseeing",
+          "paragraph": [
+            "Hyderabad offers a range of attractions like the Charminar, Golconda Fort, and Hussain Sagar Lake. The city's markets, such as Laad Bazaar and Sultan Bazaar, are great for shopping. Ramoji Film City and the Necklace Road are popular tourist spots.",
+            "Hyderabad offers a range of attractions like the Charminar, Golconda Fort, and Hussain Sagar Lake. The city's markets, such as Laad Bazaar and Sultan Bazaar, are great for shopping. Ramoji Film City and the Necklace Road are popular tourist spots."
+          ]
+        }
+      ],
+      "image": "https://i.pinimg.com/736x/b5/d4/48/b5d448ad0153518b3d5de026fe9e415e.jpg"
+    },
+    {
+      "title": "Bangalore",
+      "author": {
+        "name": "Mrs.Rutuja Jagdale",
+        "designation": "Travel Blogger",
+        "profile":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROST_icNVqE-rvOJXMoEQcb1mJO_d0DjDPuw&s"
+      },
+      "article": [
+        {
+          "sub-title": "Food of Bangalore",
+          "paragraph": [
+            "Bangalore, known for its cosmopolitan culture, offers a diverse culinary scene. From traditional South Indian dishes like Rava Idli and Vada to international cuisines, the city caters to all palates. The bustling VV Puram Food Street is a must-visit for food enthusiasts.",
+            "Bangalore, known for its cosmopolitan culture, offers a diverse culinary scene. From traditional South Indian dishes like Rava Idli and Vada to international cuisines, the city caters to all palates. The bustling VV Puram Food Street is a must-visit for food enthusiasts.",
+            "Bangalore, known for its cosmopolitan culture, offers a diverse culinary scene. From traditional South Indian dishes like Rava Idli and Vada to international cuisines, the city caters to all palates. The bustling VV Puram Food Street is a must-visit for food enthusiasts."
+          ]
+        },
+        {
+          "sub-title": "Cultural Heritage",
+          "paragraph": [
+            "Bangalore's cultural heritage blends modernity with tradition. The city is home to iconic landmarks like Bangalore Palace, Tipu Sultan's Summer Palace, and Lalbagh Botanical Garden. The city's art scene is flourishing, with many galleries and cultural festivals held throughout the year."
+          ]
+        },
+        {
+          "sub-title": "Sightseeing",
+          "paragraph": [
+            "Bangalore offers a wide array of sightseeing options, including the iconic Bangalore Palace, Lalbagh Botanical Garden, and Cubbon Park. The city also boasts of modern attractions like UB City Mall and Bannerghatta National Park, perfect for nature and shopping lovers alike.",
+            "Bangalore offers a wide array of sightseeing options, including the iconic Bangalore Palace, Lalbagh Botanical Garden, and Cubbon Park. The city also boasts of modern attractions like UB City Mall and Bannerghatta National Park, perfect for nature and shopping lovers alike.",
+            "Bangalore offers a wide array of sightseeing options, including the iconic Bangalore Palace, Lalbagh Botanical Garden, and Cubbon Park. The city also boasts of modern attractions like UB City Mall and Bannerghatta National Park, perfect for nature and shopping lovers alike.",
+            "Bangalore offers a wide array of sightseeing options, including the iconic Bangalore Palace, Lalbagh Botanical Garden, and Cubbon Park. The city also boasts of modern attractions like UB City Mall and Bannerghatta National Park, perfect for nature and shopping lovers alike.",
+            "Bangalore offers a wide array of sightseeing options, including the iconic Bangalore Palace, Lalbagh Botanical Garden, and Cubbon Park. The city also boasts of modern attractions like UB City Mall and Bannerghatta National Park, perfect for nature and shopping lovers alike."
+          ]
+        }
+      ],
+      "image": "https://i.pinimg.com/736x/e4/fc/4a/e4fc4a08018e8e882145987f21308cb6.jpg"
+    }
+  ]
+}
