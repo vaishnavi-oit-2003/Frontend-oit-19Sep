@@ -1,0 +1,12 @@
+@import "@shared/styles/reset.css";
+
+.container {
+  width: 100vw;
+  min-height: 100vh;
+  background: lavender;
+  transition: 0.5s;
+}
+
+.container.dark {
+  background: #222;
+}
