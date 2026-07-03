@@ -1,0 +1,30 @@
+#endgame{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-direction: column;
+    padding: 50px;
+    font-size: 2em;
+}
+h1 {
+    color: red;
+}
+p {
+    color: blue;
+}
+button{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#endgame .score h1{
+    font-size: 1.5em;
+    color: yellowgreen;
+}
+#endgame.score{
+    padding: 30px;
+}

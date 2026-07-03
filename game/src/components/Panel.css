@@ -1,0 +1,19 @@
+#panel{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 10px 100px;
+}
+.bubble{
+    /* border: 1px solid black; */
+    height: 60px;
+    width: 60px;
+    box-shadow: 0px 0px 3px black;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
