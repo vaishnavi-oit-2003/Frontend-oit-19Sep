@@ -1,0 +1,6 @@
+@import "@shared/styles/reset.css";
+
+#root {
+  min-height: 100vh;
+  background-color: lavender;
+}
